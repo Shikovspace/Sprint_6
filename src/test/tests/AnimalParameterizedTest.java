@@ -1,4 +1,4 @@
-package java.tests;
+package test;
 
 import com.example.Animal;
 import org.junit.Assert;

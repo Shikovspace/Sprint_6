@@ -1,4 +1,4 @@
-package java.tests;
+package test;
 
 import com.example.Feline;
 import org.junit.Assert;
