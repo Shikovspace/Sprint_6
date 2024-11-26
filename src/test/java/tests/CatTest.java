@@ -1,4 +1,4 @@
-package test;
+package test_sprint_6;
 
 import com.example.Cat;
 import com.example.Feline;

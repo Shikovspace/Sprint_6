@@ -1,4 +1,4 @@
-package test;
+package test_sprint_6;
 
 import com.example.Feline;
 import com.example.Lion;
