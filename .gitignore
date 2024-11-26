@@ -40,4 +40,4 @@ build/
 .idea
 .build
 
-!target/site/jacoco/*
+!target/site/jacoco/
